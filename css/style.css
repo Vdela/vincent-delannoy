@@ -105,7 +105,7 @@ body .itMenu .project {
   margin: 40px auto;
   background-color: #181818;
   padding: 20px;
-  box-shadow: 6px 10px 12px 10px rgba(0, 0, 0, 0);
+  box-shadow: 6px 10px 12px 10px rgba(0, 0, 0, 0.15);
 }
 @media screen and (min-width: 900px) {
   /* line 107, ../sass/style.scss */
