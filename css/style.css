@@ -155,7 +155,7 @@ body .itMenu .project .projInfos .projTitle {
 body .itMenu .project .projInfos .projIitleBox .box {
   background-color: #353535;
   margin: 4px;
-  padding: 6px;
+  padding: 4px 6px;
   display: inline-block;
 }
 /* line 155, ../sass/style.scss */
