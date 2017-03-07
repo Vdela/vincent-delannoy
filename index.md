@@ -5,13 +5,13 @@
 		<meta name="keywords" content="vincent, delannoy, imac, portfolio, it, computing, informatique, ingenieur, engineer" />
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title>Vincent Delannoy - Ingénieur IMAC</title>
-		<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css" />
+		<link rel="stylesheet" type="text/css" media="screen" href="css/style.css" />
 	</head>
 	
 	<body>
 		<header>
 			<h1>Vincent Delannoy</h1>
-			<img class="separator" src="../../images/site/round.png">
+			<img class="separator" src="images/site/round.png">
 			<p class="subtitle">Portfolio informatique</p>
 			<a href="">Voir mon portfolio artistique</a>
 		</header>
@@ -21,7 +21,7 @@
 
 			<div class="project" >
 				<div class="horizontal">
-					<img class="projMainVisual" src="../../images/it/vrlanguage01.jpg">
+					<img class="projMainVisual" src="images/it/vrlanguage01.jpg">
 					<div class="projInfos">
 						<p class="projTitle">VR Language Learning</p>
 						<div class="projIitleBox">
@@ -37,12 +37,12 @@
 					</div>
 				</div>
 				<div class="projOtherVisuals">
-					<a target="_blank" href="../../images/it/vrlanguage02.jpg"><div><img class="thumnail" src="../../images/it/vrlanguage02.jpg"></div></a>
-					<a target="_blank" href="../../images/it/vrlanguage03.jpg"><div><img class="thumnail" src="../../images/it/vrlanguage03.jpg"></div></a>
-					<a target="_blank" href="../../images/it/vrlanguage04.jpg"><div><img class="thumnail" src="../../images/it/vrlanguage04.jpg"></div></a>
-					<a target="_blank" href="../../images/it/vrlanguage05.jpg"><div><img class="thumnail" src="../../images/it/vrlanguage05.jpg"></div></a>
-					<a target="_blank" href="../../images/it/vrlanguage06.jpg"><div><img class="thumnail" src="../../images/it/vrlanguage06.jpg"></div></a>
-					<a target="_blank" href="../../images/it/vrlanguage07.jpg"><div><img class="thumnail" src="../../images/it/vrlanguage07.jpg"></div></a>
+					<a target="_blank" href="images/it/vrlanguage02.jpg"><div><img class="thumnail" src="images/it/vrlanguage02.jpg"></div></a>
+					<a target="_blank" href="images/it/vrlanguage03.jpg"><div><img class="thumnail" src="images/it/vrlanguage03.jpg"></div></a>
+					<a target="_blank" href="images/it/vrlanguage04.jpg"><div><img class="thumnail" src="images/it/vrlanguage04.jpg"></div></a>
+					<a target="_blank" href="images/it/vrlanguage05.jpg"><div><img class="thumnail" src="images/it/vrlanguage05.jpg"></div></a>
+					<a target="_blank" href="images/it/vrlanguage06.jpg"><div><img class="thumnail" src="images/it/vrlanguage06.jpg"></div></a>
+					<a target="_blank" href="images/it/vrlanguage07.jpg"><div><img class="thumnail" src="images/it/vrlanguage07.jpg"></div></a>
 				</div>
 			</div>
 
@@ -63,16 +63,16 @@
 					</div>
 				</div>
 				<div class="projOtherVisuals">
-					<a target="_blank" href="../../images/it/alchemy_02.jpg"><div><img class="thumnail" src="../../images/it/alchemy_02.jpg"></div></a>
-					<a target="_blank" href="../../images/it/alchemy_03.jpg"><div><img class="thumnail" src="../../images/it/alchemy_03.jpg"></div></a>
-					<a target="_blank" href="../../images/it/alchemy_01.jpg"><div><img class="thumnail" src="../../images/it/alchemy_01.jpg"></div></a>
+					<a target="_blank" href="images/it/alchemy_02.jpg"><div><img class="thumnail" src="images/it/alchemy_02.jpg"></div></a>
+					<a target="_blank" href="images/it/alchemy_03.jpg"><div><img class="thumnail" src="images/it/alchemy_03.jpg"></div></a>
+					<a target="_blank" href="images/it/alchemy_01.jpg"><div><img class="thumnail" src="images/it/alchemy_01.jpg"></div></a>
 				</div>
 			</div>
 
 
 			<div class="project" >
 				<div class="horizontal">
-					<img class="projMainVisual" src="../../images/it/Ermeline.jpg">
+					<img class="projMainVisual" src="images/it/Ermeline.jpg">
 					<div class="projInfos">
 						<p class="projTitle">Ermeline</p>
 						<div class="projIitleBox">
@@ -86,8 +86,8 @@
 					</div>
 				</div>
 				<div class="projOtherVisuals">
-					<a target="_blank" href="../../images/it/Ermeline01.jpg"><div><img class="thumnail" src="../../images/it/Ermeline01.jpg"></div></a>
-					<a target="_blank" href="../../images/it/Ermeline02.jpg"><div><img class="thumnail" src="../../images/it/Ermeline02.jpg"></div></a>
+					<a target="_blank" href="images/it/Ermeline01.jpg"><div><img class="thumnail" src="images/it/Ermeline01.jpg"></div></a>
+					<a target="_blank" href="images/it/Ermeline02.jpg"><div><img class="thumnail" src="images/it/Ermeline02.jpg"></div></a>
 				</div>
 			</div>
 
@@ -106,15 +106,15 @@
 					</div>
 				</div>
 				<div class="projOtherVisuals">
-					<a target="_blank" href="../../images/it/Shuffleboard01.jpg"><div><img class="thumnail" src="../../images/it/Shuffleboard01.jpg"></div></a>
-					<a target="_blank" href="../../images/it/Shuffleboard03.jpg"><div><img class="thumnail" src="../../images/it/Shuffleboard03.jpg"></div></a>
+					<a target="_blank" href="images/it/Shuffleboard01.jpg"><div><img class="thumnail" src="images/it/Shuffleboard01.jpg"></div></a>
+					<a target="_blank" href="images/it/Shuffleboard03.jpg"><div><img class="thumnail" src="images/it/Shuffleboard03.jpg"></div></a>
 				</div>
 			</div>
 
 
 			<div class="project" >
 				<div class="horizontal">
-					<img class="projMainVisual" src="../../images/it/Mapgen.png">
+					<img class="projMainVisual" src="images/it/Mapgen.png">
 					<div class="projInfos">
 						<p class="projTitle">MapGen</p>
 						<div class="projIitleBox">
@@ -128,13 +128,13 @@
 					</div>
 				</div>
 				<div class="projOtherVisuals">
-					<a target="_blank" href="../../images/it/Mapgen01.jpg"><div><img class="thumnail" src="../../images/it/Mapgen01.jpg"></div></a>
-					<a target="_blank" href="../../images/it/Mapgen04.jpg"><div><img class="thumnail" src="../../images/it/Mapgen04.jpg"></div></a>
-					<a target="_blank" href="../../images/it/Mapgen08.jpg"><div><img class="thumnail" src="../../images/it/Mapgen08.jpg"></div></a>
-					<a target="_blank" href="../../images/it/Mapgen02.jpg"><div><img class="thumnail" src="../../images/it/Mapgen02.jpg"></div></a>
-					<a target="_blank" href="../../images/it/Mapgen03.jpg"><div><img class="thumnail" src="../../images/it/Mapgen03.jpg"></div></a>
-					<a target="_blank" href="../../images/it/Mapgen05.jpg"><div><img class="thumnail" src="../../images/it/Mapgen05.jpg"></div></a>
-					<a target="_blank" href="../../images/it/Mapgen06.jpg"><div><img class="thumnail" src="../../images/it/Mapgen06.jpg"></div></a>
+					<a target="_blank" href="images/it/Mapgen01.jpg"><div><img class="thumnail" src="images/it/Mapgen01.jpg"></div></a>
+					<a target="_blank" href="images/it/Mapgen04.jpg"><div><img class="thumnail" src="images/it/Mapgen04.jpg"></div></a>
+					<a target="_blank" href="images/it/Mapgen08.jpg"><div><img class="thumnail" src="images/it/Mapgen08.jpg"></div></a>
+					<a target="_blank" href="images/it/Mapgen02.jpg"><div><img class="thumnail" src="images/it/Mapgen02.jpg"></div></a>
+					<a target="_blank" href="images/it/Mapgen03.jpg"><div><img class="thumnail" src="images/it/Mapgen03.jpg"></div></a>
+					<a target="_blank" href="images/it/Mapgen05.jpg"><div><img class="thumnail" src="images/it/Mapgen05.jpg"></div></a>
+					<a target="_blank" href="images/it/Mapgen06.jpg"><div><img class="thumnail" src="images/it/Mapgen06.jpg"></div></a>
 				</div>
 			</div>
 
@@ -153,17 +153,17 @@
 					</div>
 				</div>
 				<div class="projOtherVisuals">
-					<a target="_blank" href="../../images/it/Meshwork01.jpg"><div><img class="thumnail" src="../../images/it/Meshwork01.jpg"></div></a>
-					<a target="_blank" href="../../images/it/Meshwork03.jpg"><div><img class="thumnail" src="../../images/it/Meshwork03.jpg"></div></a>
-					<a target="_blank" href="../../images/it/Meshwork02.jpg"><div><img class="thumnail" src="../../images/it/Meshwork02.jpg"></div></a>
-					<a target="_blank" href="../../images/it/Meshwork04.jpg"><div><img class="thumnail" src="../../images/it/Meshwork04.jpg"></div></a>
-					<a target="_blank" href="../../images/it/Meshwork05.jpg"><div><img class="thumnail" src="../../images/it/Meshwork05.jpg"></div></a>
+					<a target="_blank" href="images/it/Meshwork01.jpg"><div><img class="thumnail" src="images/it/Meshwork01.jpg"></div></a>
+					<a target="_blank" href="images/it/Meshwork03.jpg"><div><img class="thumnail" src="images/it/Meshwork03.jpg"></div></a>
+					<a target="_blank" href="images/it/Meshwork02.jpg"><div><img class="thumnail" src="images/it/Meshwork02.jpg"></div></a>
+					<a target="_blank" href="images/it/Meshwork04.jpg"><div><img class="thumnail" src="images/it/Meshwork04.jpg"></div></a>
+					<a target="_blank" href="images/it/Meshwork05.jpg"><div><img class="thumnail" src="images/it/Meshwork05.jpg"></div></a>
 				</div>
 			</div>
 
 			<div class="project" >
 				<div class="horizontal">
-					<img class="projMainVisual" src="../../images/it/DungeonGL07.jpg">
+					<img class="projMainVisual" src="images/it/DungeonGL07.jpg">
 					<div class="projInfos">
 						<p class="projTitle">DungeonGL</p>
 						<div class="projIitleBox">
@@ -177,11 +177,11 @@
 					</div>
 				</div>
 				<div class="projOtherVisuals">
-					<a target="_blank" href="../../images/it/DungeonGL01.jpg"><div><img class="thumnail" src="../../images/it/DungeonGL01.jpg"></div></a>
-					<a target="_blank" href="../../images/it/DungeonGL02.jpg"><div><img class="thumnail" src="../../images/it/DungeonGL02.jpg"></div></a>
-					<a target="_blank" href="../../images/it/DungeonGL03.jpg"><div><img class="thumnail" src="../../images/it/DungeonGL03.jpg"></div></a>
-					<a target="_blank" href="../../images/it/DungeonGL04.jpg"><div><img class="thumnail" src="../../images/it/DungeonGL04.jpg"></div></a>
-					<a target="_blank" href="../../images/it/DungeonGL06.jpg"><div><img class="thumnail" src="../../images/it/DungeonGL06.jpg"></div></a>
+					<a target="_blank" href="images/it/DungeonGL01.jpg"><div><img class="thumnail" src="images/it/DungeonGL01.jpg"></div></a>
+					<a target="_blank" href="images/it/DungeonGL02.jpg"><div><img class="thumnail" src="images/it/DungeonGL02.jpg"></div></a>
+					<a target="_blank" href="images/it/DungeonGL03.jpg"><div><img class="thumnail" src="images/it/DungeonGL03.jpg"></div></a>
+					<a target="_blank" href="images/it/DungeonGL04.jpg"><div><img class="thumnail" src="images/it/DungeonGL04.jpg"></div></a>
+					<a target="_blank" href="images/it/DungeonGL06.jpg"><div><img class="thumnail" src="images/it/DungeonGL06.jpg"></div></a>
 				</div>
 			</div>
 
@@ -201,9 +201,9 @@
 					</div>
 				</div>
 				<div class="projOtherVisuals">
-					<a target="_blank" href="../../images/it/SLDR01.jpg"><div><img class="thumnail" src="../../images/it/SLDR01.jpg"></div></a>
-					<a target="_blank" href="../../images/it/SLDR03.jpg"><div><img class="thumnail" src="../../images/it/SLDR03.jpg"></div></a>
-					<a target="_blank" href="../../images/it/SLDR04.jpg"><div><img class="thumnail" src="../../images/it/SLDR04.jpg"></div></a>
+					<a target="_blank" href="images/it/SLDR01.jpg"><div><img class="thumnail" src="images/it/SLDR01.jpg"></div></a>
+					<a target="_blank" href="images/it/SLDR03.jpg"><div><img class="thumnail" src="images/it/SLDR03.jpg"></div></a>
+					<a target="_blank" href="images/it/SLDR04.jpg"><div><img class="thumnail" src="images/it/SLDR04.jpg"></div></a>
 				</div>
 			</div>
 				
