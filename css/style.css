@@ -54,7 +54,7 @@ a:hover {
   display: block;
   width: 6px;
   height: 6px;
-  margin: 30px auto;
+  margin: 20px auto;
 }
 
 /* line 55, ../sass/style.scss */
@@ -62,7 +62,7 @@ header {
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 5px;
-  margin: 8vh 0px;
+  margin: 8vh 0px 4vh 0px;
 }
 /* line 62, ../sass/style.scss */
 header h1 {
@@ -73,7 +73,7 @@ header h1 {
 /* line 68, ../sass/style.scss */
 header .subtitle {
   font-size: 18px;
-  margin: 5px;
+  margin: 5px 5px 20px 5px;
 }
 /* line 73, ../sass/style.scss */
 header a {
@@ -105,7 +105,7 @@ body .itMenu .project {
   margin: 40px auto;
   background-color: #181818;
   padding: 20px;
-  box-shadow: 6px 10px 12px 10px rgba(0, 0, 0, 0.15);
+  box-shadow: 6px 10px 12px 10px rgba(0, 0, 0, 0);
 }
 @media screen and (min-width: 900px) {
   /* line 107, ../sass/style.scss */
@@ -208,6 +208,37 @@ body .itMenu .project .projOtherVisuals div .thumnail {
   width: 100%;
   margin: auto;
   top: 0px;
+}
+/* line 216, ../sass/style.scss */
+body .artfolio {
+  display: block;
+  width: 80%;
+  margin: 40px auto;
+  display: flex;
+  flex-direction: column;
+}
+/* line 224, ../sass/style.scss */
+body .artfolio .artBox {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin: 50px auto;
+}
+/* line 232, ../sass/style.scss */
+body .artfolio .artBox a {
+  display: inline-block;
+}
+/* line 236, ../sass/style.scss */
+body .artfolio .artBox .artTitle {
+  display: block;
+  text-align: center;
+  font-size: 24px;
+}
+/* line 242, ../sass/style.scss */
+body .artfolio .artBox .visual {
+  display: block;
+  width: 100%;
+  margin: auto;
 }
 
 @font-face {
