@@ -33,7 +33,7 @@ a:hover {
   width: 0%;
   height: 1px;
   content: '';
-  background: rgba(255, 255, 255, 0);
+  background: rgba(255, 255, 255, 0.75);
   position: absolute;
   transition: all 0.4s;
   bottom: 0;
@@ -105,7 +105,7 @@ body .itMenu .project {
   margin: 40px auto;
   background-color: #181818;
   padding: 20px;
-  box-shadow: 6px 10px 12px 10px rgba(0, 0, 0, 0);
+  box-shadow: 6px 10px 12px 10px rgba(0, 0, 0, 0.15);
 }
 @media screen and (min-width: 900px) {
   /* line 107, ../sass/style.scss */
@@ -125,53 +125,52 @@ body .itMenu .project {
 body .itMenu .project .projMainVisual {
   float: left;
   display: inline-block;
-  max-width: 350px;
-  min-width: 250px;
   max-height: 350px;
-  min-height: 250px;
   width: 80%;
+  height: auto;
   margin: 20px auto 20px auto;
 }
-/* line 130, ../sass/style.scss */
+/* line 128, ../sass/style.scss */
 body .itMenu .project .projInfos {
   display: flex;
   flex-direction: column;
   float: left;
+  min-height: 300px;
 }
 @media screen and (min-width: 900px) {
-  /* line 130, ../sass/style.scss */
+  /* line 128, ../sass/style.scss */
   body .itMenu .project .projInfos {
     margin-left: 30px;
   }
 }
-/* line 139, ../sass/style.scss */
+/* line 138, ../sass/style.scss */
 body .itMenu .project .projInfos .projTitle {
   font-size: 28px;
   font-weight: bold;
   margin-bottom: 4px;
   margin-top: 5px;
 }
-/* line 148, ../sass/style.scss */
+/* line 147, ../sass/style.scss */
 body .itMenu .project .projInfos .projIitleBox .box {
   background-color: #353535;
   margin: 4px;
   padding: 4px 6px;
   display: inline-block;
 }
-/* line 155, ../sass/style.scss */
+/* line 154, ../sass/style.scss */
 body .itMenu .project .projInfos .projIitleBox .collaborators {
   font-size: 14px;
   font-weight: bold;
   color: #B5B5B5;
 }
-/* line 161, ../sass/style.scss */
+/* line 160, ../sass/style.scss */
 body .itMenu .project .projInfos .projIitleBox .collaborators p {
   display: block;
   float: left;
   margin: 2px 6px;
   padding: 2px 6px;
 }
-/* line 167, ../sass/style.scss */
+/* line 166, ../sass/style.scss */
 body .itMenu .project .projInfos .projIitleBox .collaborators .collab {
   background-color: rgba(0, 0, 0, 0);
   margin: 2px 0px;
@@ -181,7 +180,7 @@ body .itMenu .project .projInfos .projIitleBox .collaborators .collab {
   position: relative;
   color: #CCCCCC;
 }
-/* line 180, ../sass/style.scss */
+/* line 179, ../sass/style.scss */
 body .itMenu .project .projInfos .projDesc {
   margin: 10px auto;
   width: 100%;
@@ -189,7 +188,7 @@ body .itMenu .project .projInfos .projDesc {
   text-align: left;
   letter-spacing: 1.5px;
 }
-/* line 194, ../sass/style.scss */
+/* line 193, ../sass/style.scss */
 body .itMenu .project .projOtherVisuals div {
   width: 30%;
   display: inline-block;
@@ -197,19 +196,19 @@ body .itMenu .project .projOtherVisuals div {
   margin: 1%;
 }
 @media screen and (max-width: 600px) {
-  /* line 194, ../sass/style.scss */
+  /* line 193, ../sass/style.scss */
   body .itMenu .project .projOtherVisuals div {
     width: 100%;
     height: 150px;
   }
 }
-/* line 203, ../sass/style.scss */
+/* line 202, ../sass/style.scss */
 body .itMenu .project .projOtherVisuals div .thumnail {
   width: 100%;
   margin: auto;
   top: 0px;
 }
-/* line 216, ../sass/style.scss */
+/* line 215, ../sass/style.scss */
 body .artfolio {
   display: block;
   width: 80%;
@@ -217,24 +216,24 @@ body .artfolio {
   display: flex;
   flex-direction: column;
 }
-/* line 224, ../sass/style.scss */
+/* line 223, ../sass/style.scss */
 body .artfolio .artBox {
   display: flex;
   flex-direction: column;
   max-width: 500px;
   margin: 50px auto;
 }
-/* line 232, ../sass/style.scss */
+/* line 231, ../sass/style.scss */
 body .artfolio .artBox a {
   display: inline-block;
 }
-/* line 236, ../sass/style.scss */
+/* line 235, ../sass/style.scss */
 body .artfolio .artBox .artTitle {
   display: block;
   text-align: center;
   font-size: 24px;
 }
-/* line 242, ../sass/style.scss */
+/* line 241, ../sass/style.scss */
 body .artfolio .artBox .visual {
   display: block;
   width: 100%;
